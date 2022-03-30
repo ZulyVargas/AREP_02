@@ -47,8 +47,12 @@ Se realiza una tercer instancia para el PROXY en un EC2:
 3. Comprimir el archivo, usar sftp y el comando put para enviar.
 4. Installar JVM, ejecutar el servidor Proxy y conectarse:
 
+![](img/proxyec2.png)
 
+![](img/pruebaproxyec2.png)
+Instancias:
 
+![](img/instancias.png)
 
 ## Autores
 
